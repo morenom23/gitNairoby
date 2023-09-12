@@ -1,2 +1,0 @@
-Escribir otra cosa, agregar la modificaión y crear el commit+
-modifianco el archivo nuevamente para hacer el commit de otra forma 
