@@ -1,2 +1,1 @@
-Lo que ustedes deseen en ese archivo, ahora modificamos el archivo #2
-para ver en que estado se encuentra
+Escribir otra cosa, agregar la modificaión y crear el commit
